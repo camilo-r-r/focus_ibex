@@ -1,0 +1,3 @@
+filename,condition,itemnumber,topic,trial,correct,targetword,group
+glen_subj_1_H_101.wav,fill,201,handwerk,filler,F,Koreanerin,a
+glen_subj_1_H_61.wav,H,61,schule,critical,J,Lehrer ,a
